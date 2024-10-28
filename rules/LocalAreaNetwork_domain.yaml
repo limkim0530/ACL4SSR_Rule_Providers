@@ -1,5 +1,5 @@
 payload:
-  - '+.acl4.ssr'
+  # - '+.acl4.ssr'
   - '+.ip6-localhost'
   - '+.ip6-loopback'
   - '+.lan'

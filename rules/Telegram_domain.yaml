@@ -1,4 +1,7 @@
 payload:
+  - '+.elegram.space'
+  - '+.telegram-cdn.org'
+  - '+.cdn-telegram.org'
   - '+.t.me'
   - '+.tdesktop.com'
   - '+.telegra.ph'

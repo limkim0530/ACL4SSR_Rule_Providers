@@ -1,7 +1,7 @@
 payload:
   - 'apple.comscoreresearch.com'
   - '+.aaplimg.com'
-  - '+.akadns.net'
+  # - '+.akadns.net'
   - '+.apple-cloudkit.com'
   - '+.apple-dns.net'
   - '+.apple-mapkit.com'

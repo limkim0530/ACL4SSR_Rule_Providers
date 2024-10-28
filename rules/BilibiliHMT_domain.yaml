@@ -1,9 +1,10 @@
 payload:
   - 'p-bstarstatic.akamaized.net'
-  - 'p.bstarstatic.com'
+  - '+.bstarstatic.com'
   - 'upos-bstar-mirrorakam.akamaized.net'
   - 'upos-bstar1-mirrorakam.akamaized.net'
   - 'upos-hz-mirrorakam.akamaized.net'
+  - 'pic-bstarstatic.akamaized.net'
   - '+.acgvideo.com'
   - '+.bilibili.com'
   - '+.bilibili.tv'

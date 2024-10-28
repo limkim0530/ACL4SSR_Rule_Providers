@@ -1,4 +1,8 @@
 payload:
+  - '+.perplexity.ai'
+  - '+.claude.ai'
+  - '+.coze.com'
+  - '+.ciciai.com'
   - '+.auth0.com'
   - '+.challenges.cloudflare.com'
   - '+.chatgpt.com'
@@ -12,5 +16,5 @@ payload:
   - '+.oaiusercontent.com'
   - '+.openai.com'
   - '+.openaiapi-site.azureedge.net'
-  - '+.sentry.io'
+  # - '+.sentry.io'
   - '+.stripe.com'

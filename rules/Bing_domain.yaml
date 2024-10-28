@@ -1,3 +1,5 @@
 payload:
   - '+.bing.com'
   - '+.copilot.microsoft.com'
+  - '+.bing.net'
+  - '+.bingapis.com'
